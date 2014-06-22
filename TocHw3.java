@@ -1,3 +1,11 @@
+//-------------------------------------
+//NAME:Ming - Jie Deng
+//ID:H54001347
+//Date:2013/06/23 from Tainan,Taiwan
+//Type:HW3
+//Description:先用readAll()讀取成String 再轉成JSON格式
+//用regular 方式找出相應的 取平均
+
 import java.net.*;
 import java.nio.charset.Charset;
 import java.io.*;
