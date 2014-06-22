@@ -82,7 +82,7 @@ public class TocHw3 {
 			}
 			
 			if(count!=0){
-			System.out.println("Output:");
+			//System.out.println("Output:");
 			System.out.println(total_price/count);
 			
 			}
